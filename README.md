@@ -1,1 +1,1 @@
-# Diabetes---Heroku
+# Diabetes-Heroku
